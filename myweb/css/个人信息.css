@@ -1,0 +1,106 @@
+@import 'clearfix.css';
+@import 'normalize.css';
+@import '960.css';
+@import 'font-awesome.css';
+
+#page{
+	width: 1080px;
+	right-width:1200px;
+	margin: auto auto;
+}
+
+#picture2{
+	float:right;
+	margin-right:300px;
+	margin-bottom: 20px;
+	margin-top: 38px;
+	padding:2px;
+	border: 1px solid grey;	
+}
+
+h2{
+	padding: 1px;
+	margin:5px;
+	padding-bottom: 5px;
+	border-bottom:1px dotted gray;
+
+	color: red;
+	font-size: 20px;
+    font-family: "microsoft yahei";
+   
+    
+    vertical-align: top;
+}
+
+nav ul{
+	list-style: none;
+	padding-left: 0px;
+}
+
+nav{
+	position:fixed;
+	top:0;
+	left:0;
+	right:0;	
+	width: 100%;
+	background-color: #808080;
+}
+
+nav li{
+	float:left;
+}
+
+nav ul{
+	width:980px;
+	margin: 0 auto;	
+}
+
+nav a{
+	display: block;
+	padding:10px;
+    font-family: STCaiyun, "华文彩云";
+    text-decoration: none;
+	color: white;		
+}
+
+nav a:hover{	
+	background-color: #666666;
+}
+
+body{
+	background-image:url(../img/48F58PICR4n_1024.jpg);
+	margin-bottom: 30px;
+	color: rgb(85, 85, 85);
+	font-family: 'microsoft yahei', arial;
+  /*background-repeat:repeat;*/
+}
+a{
+	text-decoration:none;
+}
+
+.yanse{
+	color: rgb(85, 85, 85);
+	font-family: 'microsoft yahei', arial;
+	font-size: 15px;
+	font-weight: bold;
+	height: 24px;
+	text-decoration: none;
+}
+
+.code{
+	margin-left: 2px;
+	color: green;
+}
+
+.text1 li {
+	list-style: none;	
+}
+#li1{
+	list-style: url(../img/1.png);
+}
+#li2{
+	list-style: url(../img/2.png);
+}
+#li3{
+	list-style: url(../img/3.png); 
+}

@@ -1,0 +1,32 @@
+@import 'clearfix.css';
+.picture{
+	float:left;
+	margin-left:20px;	
+}
+.maintitle {
+    font-size: 30px;
+    font-family: "microsoft yahei";
+    color: #111;
+    margin-left:70px;
+    display: inline-block;
+    vertical-align: top;
+}
+.page{
+    margin-top: 5px;
+}
+
+a{
+    text-decoration:none;
+}	
+.yanse{
+    color: rgb(85, 85, 85);
+    font-family: 'microsoft yahei', arial;
+    font-size: 15px;
+    font-weight: bold;
+    height: 24px;
+    text-decoration: none;
+}
+body{
+    margin-bottom: 30px;
+     margin: auto auto;
+}

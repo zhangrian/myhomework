@@ -1,0 +1,69 @@
+@import 'clearfix.css';
+
+ a{
+	color: rgb(255, 156, 0);
+	font-family: 'microsoft yahei', arial;
+	font-size: 14px;
+	height: 24px;
+	text-decoration: none;
+}
+
+p{
+	font-size:small;
+	color:rgb(85, 85, 85);
+}
+
+td b{
+	color: rgb(255, 156, 0);
+ 	font-size: 14px;
+}
+
+#biaoge{
+    margin-top: 55px;
+    margin-left: 50px;
+ }
+
+ .word{
+ 	float:left;
+ 	margin: auto 20px;
+ }
+
+ .word1{
+ 	float:right;
+ 	border:2px solid lightgrey;
+ 	padding:auto 5px;
+ 	margin-left: 10px;
+ 	margin: auto 20px; 
+ }
+
+.im{
+	float:left;
+	margin-top:10px;
+}
+
+ .picture{
+	float:left;
+	margin-left:20px;	
+}
+
+.page{
+	margin: auto auto;
+}
+
+.bianju{
+	margin: auto 20px;
+}
+
+.yanse{
+	color: rgb(85, 85, 85);
+	font-family: 'microsoft yahei', arial;
+	font-size: 14px;
+	font-weight: bold;
+	height: 24px;
+	text-decoration: none;
+}
+
+body{
+	margin-bottom: 30px;
+	
+}
