@@ -18,6 +18,11 @@
 
 a{
     text-decoration:none;
+}
+
+p{
+    font-size:15px;
+    color:#66CC33;
 }	
 .yanse{
     color: rgb(85, 85, 85);
