@@ -12,7 +12,8 @@
     vertical-align: top;
 }
 .page{
-    margin-top: 5px;
+    top: 5px;
+    position: absolute;
 }
 
 a{
